@@ -1,0 +1,1 @@
+This is file created on remote repository which i want to be pulled using git pull
